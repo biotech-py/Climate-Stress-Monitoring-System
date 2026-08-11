@@ -10,7 +10,7 @@
 ![Sentinel-2](https://img.shields.io/badge/Sentinel--2-Earth%20Observation-orange)
 ![NDVI](https://img.shields.io/badge/NDVI-Vegetation%20Health-brightgreen)
 
-## 📌 Project Overview
+## 📌 Project Overview 
 
 This project presents a satellite-based climate stress monitoring system developed using Sentinel-2 multispectral imagery and GIS analysis techniques. The objective is to assess vegetation health and identify climate stress zones across the Kolkata region using the Normalized Difference Vegetation Index (NDVI).
 
